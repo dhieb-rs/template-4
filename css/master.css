@@ -1014,7 +1014,7 @@ ul {
   .files-page {
     flex-direction: column;
     align-items: normal;
-    gab: 10px;
+    gap: 10px;
   }
 }
 .files-page .files-stats {
